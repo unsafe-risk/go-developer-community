@@ -56,6 +56,12 @@ GDC는 [kakaotalk open chat](https://open.kakao.com/o/gdclanguage)에서의 주�
 
 서로에게 민폐가 되는 행동을 하지 않는다면 어떤 주제든 자유롭게 이야기를 나눌 수 있습니다.
 
+### news letter
+
+GDC는 고 언어와 관련된 소식을 전하는 뉴스레터를 운영하고 있습니다.
+
+신청하시려면 [여기](https://page.stibee.com/subscriptions/226008?groupids=219174)를 클릭해주시고, 투고는 [카카오톡 오픈톡](https://open.kakao.com/o/gdclanguage)에서 말씀해주시거나, [개인 프로필](https://open.kakao.com/me/snowmerak)로 말씀해주셨으면 합니다.
+
 ### github organization
 
 GDC는 github organization인 [unsafe-risk](https://github.com/unsafe-risk)에서의 프로젝트 유지보수와 기여를 환영합니다.
