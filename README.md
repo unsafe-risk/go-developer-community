@@ -50,6 +50,12 @@ GDC는 고 언어 개발자들이 모여서 고 언어에 대한 정보를 공�
 
 ## 활동
 
+### kakaotalk open chat
+
+GDC는 [kakaotalk open chat](https://open.kakao.com/o/gdclanguage)에서의 주로 고랭에 대한 이야기를 나눕니다.
+
+서로에게 민폐가 되는 행동을 하지 않는다면 어떤 주제든 자유롭게 이야기를 나눌 수 있습니다.
+
 ### github organization
 
 GDC는 github organization인 [unsafe-risk](https://github.com/unsafe-risk)에서의 프로젝트 유지보수와 기여를 환영합니다.
