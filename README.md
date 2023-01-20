@@ -16,7 +16,7 @@ GDC는 [kakaotalk open chat](https://open.kakao.com/o/gdclanguage)에서의 주�
 
 ### news letter
 
-GDC는 고 언어와 관련된 소식을 전하는 [뉴스레터](https://go-deverlopers.stibee.com/)를 운영하고 있습니다.
+GDC는 고 언어와 관련된 소식을 전하는 [뉴스레터](https://go-developers.stibee.com/)를 운영하고 있습니다.
 
 신청하시려면 [여기](https://page.stibee.com/subscriptions/226008?groupids=219174)를 클릭해주시고, 투고는 [카카오톡 오픈톡](https://open.kakao.com/o/gdclanguage)에서 말씀해주시거나, [개인 프로필](https://open.kakao.com/me/snowmerak)로 말씀해주셨으면 합니다.
 
